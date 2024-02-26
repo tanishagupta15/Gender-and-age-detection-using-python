@@ -1,0 +1,4 @@
+   pip install opencv-python
+   pip install argparse
+  python detect.py --image <image_name>
+  python detect.py
