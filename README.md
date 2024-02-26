@@ -43,10 +43,6 @@ Step 7: Classification
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
 
-
-<h2>Examples :</h2>
-<p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
-
     >python detect.py --image girl1.jpg
     Gender: Female
     Age: 25-32 years
